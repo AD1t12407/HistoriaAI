@@ -1,0 +1,43 @@
+{
+    "Place": "White House",
+    "history": "The White House is the official residence and workplace of the President of the United States. It was designed by James Hoban and built between 1792 and 1800. The first president to live in the White House was John Adams. The White House has undergone several renovations and additions over the years. It has been the scene of many historic events, including presidential inaugurations, state dinners, and important meetings with foreign leaders.",
+    "Ecological Relevance": "The White House is located in Washington, D.C., which is a city known for its diverse ecosystem and green spaces. The White House grounds also feature a variety of trees and plants that contribute to the urban biodiversity of the area.",
+    "timeline": [
+        {
+            "Year": "1792",
+            "Details": "Construction of the White House begins."
+        },
+        {
+            "Year": "1800",
+            "Details": "John Adams becomes the first president to live in the White House."
+        },
+        {
+            "Year": "1814",
+            "Details": "During the War of 1812, British troops burn the White House."
+        },
+        {
+            "Year": "1901",
+            "Details": "Theodore Roosevelt officially names the White House."
+        },
+        {
+            "Year": "1947",
+            "Details": "Truman reconstruction begins, gutting the interior of the White House."
+        },
+        {
+            "Year": "1969",
+            "Details": "The White House is declared a National Historic Landmark."
+        },
+        {
+            "Year": "2009",
+            "Details": "The White House becomes the first private official residence to be solar-powered."
+        },
+        {
+            "Year": "2016",
+            "Details": "Michelle Obama plants a vegetable garden on the South Lawn of the White House."
+        },
+        {
+            "Year": "2021",
+            "Details": "Joe Biden becomes the 46th President of the United States to reside in the White House."
+        }
+    ]
+}

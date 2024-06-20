@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mythic-chalice-426409-d9",
+  "private_key_id": "5c87d58fa64c4b9fe78fbb159b66c61eadd0979f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvAO+jD8NuzSU8\nBbRHbsVYo/InCwqMTAI8CAwolgWfTvKjY4fZlnaRAoPdfkeLogrfPJPU1eiW3+Cn\n48/FJNxdh5Hsma9dGB47ozBLjKc4fb1Xi7m+hx4pCLYK6Hl/kKreOBpSO6FxzCyN\n5gulkGkR/ZTxlvj0aMskIrNV4U995jUPs8zxe25x+UoO21d8jNzdLwnOg4sXhw+M\n1utWMTCgDxAVRBIbaI0Nj8OiJiK/QdiGK+XoMi9TXsR6MM9dFYJmSeJ5FaD76cCz\nDL2g+3wEiGa29JeJ3XEUr1gxIXv+zhKOR0/R7xpYlFYzCbac7Iz4c6sW0c/gq2Ap\n8OqRV1dvAgMBAAECggEAD8/PLGB5kUKfy/MyqAbuIGV6X49effFFfRRiZNhehwJP\nEfbQM2ymJyafBh1+wV2mtdIiA+eVLZc/aRaVky5oFVtGZ/uKyKfWiMo5zC8CfNbU\n4LATMY/BEzFiS/dX4vAN6tNkLWyN2FumOuaUxCTEGYgGiRLRnjj0VxN7jere5R+y\nrpvvROYoNcc0dIAA2E8RhT7tLQmStAaH3+4DXli8eHvt3F/dHGzmvucEvKSo6BQc\nzUz92uiEoUgnse9pbBbNNZa47Jiw+cWVblCAJ9TaffnOPZvZ79Aygx+IClmctZUq\nrn6Lv0q8A5l97pgZSJNKAEiw+f+WiccbiddBlfjwYQKBgQDa06853vvKtTCVdMb3\nTT+xVa8F5CIukh0SY/i/EKOPZ3SGYGZUTlwlURhNKQ0Y33/UnCcaGWFzwVo7DIc7\nwiDYVer45LfBuIpNk1H0edcaLN9LY1zF3/NimCGX3csQjM43oWmxKvZI6EwM5BMf\nfFQ6U4NEwgU0K/4ZiP4qq8yA4wKBgQDMu3jvf47s1WxvYiT6FSJvE0Th6CDtBl6U\nXttg8YC1+mNFROc/Bx/7i649pmdeSqUKIuTlwJb+ITsVh6QgzHZ7TBf1Xldn1Qur\nN3QQcevY/KfURqXYpzpe0KBoGwFC9LbO1aO0iQ/2sQKHGY3a8iqSPq0hrOneV3Ow\nieKEwftRBQKBgBL5tkErb+QlECB1ruc1AKftCS9WmAw3yWOV3bUbyUMfMoCQjW8U\nGHN388aFH8ifYONb4xwlRUkXZC6oqHVrIRQBZ03L749R5FRTyRCNHDT93SMZa6sQ\n/3b2QDt+FSTLQPqb+aFOW2r5EdcwU+QwENG5+jEVLgRXKEKomXmzyhkHAoGBAKDW\njxWoIoKQ0JVYhzAotlqIys6m7GcJX/gz5Sjt0W4lfSOIFBuB33BgtcwdFIwRHEMw\nUp7khDq1pJMvcpOJzXLjvta2/PfHeVlTQU1CEkTviHHN5rCj/8lJIRtoS79sPMmV\nMPy9yNrHCPNV8gmVwjgOITmZfEl+bpa8XEZrlqJ5AoGAXV1WOTXuk2YBVJ+Tz3+c\nCLNp4bNTZehNucMbr+JcnvKoRgdNytkaKnKIgE4Z0PMteccnqUmwpvhIbRZJhnNq\npXJGb0l2EZlj3of9zQc/Y9w6c0KbN7eDnQ1jXuSCwMHmcFQlXjL9zUeICl0VcIeg\nXvYoj9yokQHKCR42Ey0NSj4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "avinyatts@mythic-chalice-426409-d9.iam.gserviceaccount.com",
+  "client_id": "107789315317430352783",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/avinyatts%40mythic-chalice-426409-d9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

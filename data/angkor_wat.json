@@ -1,0 +1,35 @@
+{
+    "Place": "Angkor Wat",
+    "history": "Angkor Wat is a temple complex in Cambodia and is the largest religious monument in the world. It was built in the early 12th century by King Suryavarman II as a Hindu temple dedicated to the god Vishnu. The temple later transformed into a Buddhist site by the end of the 12th century. Angkor Wat was built in the capital city of the Khmer Empire and served as a symbol of the empire's power and wealth. The complex covers an area of over 400 acres and is known for its intricate carvings and bas-reliefs.",
+    "Ecological Relevance": "Angkor Wat is surrounded by a moat and is situated within the Angkor Archaeological Park, which is a UNESCO World Heritage site. The temple complex is nestled within a lush green forest, showcasing the harmonious relationship between human-made structures and nature. The site attracts millions of visitors each year, contributing to the conservation and protection of the surrounding ecosystem.",
+    "timeline": [
+        {
+            "Year": "12th Century",
+            "Details": "Construction of Angkor Wat begins under King Suryavarman II."
+        },
+        {
+            "Year": "Late 12th Century",
+            "Details": "Transformation of Angkor Wat from a Hindu temple to a Buddhist site."
+        },
+        {
+            "Year": "1431",
+            "Details": "Angkor Wat is abandoned as the capital shifts to Phnom Penh."
+        },
+        {
+            "Year": "19th Century",
+            "Details": "French explorers redicover Angkor Wat, bringing it to the attention of the Western world."
+        },
+        {
+            "Year": "20th Century",
+            "Details": "Angkor Wat undergoes restoration and conservation efforts to preserve its architectural and historical significance."
+        },
+        {
+            "Year": "1992",
+            "Details": "Angkor Wat becomes a UNESCO World Heritage Site, attracting tourists and researchers from around the globe."
+        },
+        {
+            "Year": "21st Century",
+            "Details": "Angkor Wat continues to be a symbol of Cambodian identity and cultural heritage, drawing visitors and scholars to study its architecture and history."
+        }
+    ]
+}
